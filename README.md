@@ -95,3 +95,8 @@ man : 1
 my : 2
 the : 1
 ```
+
+----------
+
+from PacktPub——Storm Blueprints: Patterns for Distributed Real-time Computation
+https://www.packtpub.com/packtlib/book/Big%20Data%20&%20Business%20Intelligence/9781782168294/1

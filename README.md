@@ -19,6 +19,7 @@ brew install storm
     <scope>provided</scope>
 </dependency>
 
+<!-- 通过maven-shade-plugin将一个项目打包成一个可执行的jar包。包括所依赖的jar -->
 <build>
     <plugins>
         <plugin>
